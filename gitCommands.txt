@@ -1,0 +1,8 @@
+git init - устанавливает зависимости между гитом и проектом 
+git remote origin <ссылка на гит репозиторий>.git - выбрать репозиторий 
+git branch -M main - 
+git push -u origin main - ,
+
+git add .
+git commit -m "сообщение" 
+git push
